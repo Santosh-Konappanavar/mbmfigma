@@ -267,48 +267,6 @@ export default function VijayDashboardpagePage() {
                       </Button>
                     </div>
                   </div>
-                  <div className="relative mt-[15px] h-[705px] w-[10%] sm:w-full">
-                    <div className="absolute bottom-0 left-0 right-0 top-0 m-auto h-[705px] w-[74%] rotate-[-90deg] md:h-auto">
-                      <div className="w-full">
-                        <div className="flex flex-col items-center">
-                          <div className="w-[29%] md:w-full">
-                            <div className="rounded bg-green-500_01">
-                              <div className="h-[219px] w-[9px] rounded bg-green-500" />
-                            </div>
-                            <div className="relative mt-[-11px] h-[95px] w-[9px] rounded bg-blue_gray-100" />
-                          </div>
-                          <div className="relative mt-[-17px] flex flex-col items-center self-stretch">
-                            <div className="relative z-[4] self-stretch rounded-[3px] bg-gray-500_03 p-2.5">
-                              <div className="h-[11px] w-[11px] rounded-[5px] bg-white-A700" />
-                            </div>
-                            <div className="relative mt-[-25px] h-[95px] w-[9px] rounded bg-blue_gray-100" />
-                          </div>
-                        </div>
-                        <div className="relative mt-[-14px]">
-                          <div className="flex flex-col items-center">
-                            <div className="relative z-[5] self-stretch rounded-[3px] bg-gray-500_03 p-2.5">
-                              <div className="h-[11px] w-[11px] rounded-[5px] bg-white-A700" />
-                            </div>
-                            <div className="relative mt-[-29px] h-[95px] w-[9px] rounded bg-blue_gray-100" />
-                          </div>
-                          <div className="relative mt-[-7px] flex flex-col items-center">
-                            <div className="relative z-[6] self-stretch rounded-[3px] bg-gray-500_03 p-2.5">
-                              <div className="h-[11px] w-[11px] rounded-[5px] bg-white-A700" />
-                            </div>
-                            <div className="relative mt-[-27px] h-[240px] w-[9px] rounded bg-orange-50_01" />
-                          </div>
-                        </div>
-                      </div>
-                      <div className="absolute left-0 right-0 top-[28%] m-auto w-full rounded-[3px] bg-green-800 p-2.5">
-                        <div className="h-[11px] w-[11px] rounded-[5px] bg-white-A700" />
-                      </div>
-                    </div>
-                    <Img
-                      src="images/img_settings_deep_orange_a100.svg"
-                      alt="settings"
-                      className="absolute bottom-[6%] left-0 right-0 m-auto h-[56px] w-full"
-                    />
-                  </div>
                 </div>
                 <div className="flex flex-col items-center gap-[30px] rounded-[16px] border border-solid border-deep_orange-A200 p-[31px] sm:p-5">
                   <Heading size="2xl" as="h5" className="!font-bold !text-gray-500_04">

@@ -6,11 +6,11 @@ export default function Footer({ ...props }) {
     <footer {...props}>
       <div className="mb-[92px] flex w-full flex-col gap-[17px]">
         <Img src="images/img_footer_logo.png" alt="footerlogo" className="h-[61px] w-[89px] object-cover" />
-        <Heading size="5xl" as="h4" className="!text-[26.39px] leading-[156%] !text-gray-700_01">
+        <Heading size="5xl" as="h4" className="!text-[26.39px] leading-[156%] !text-gray-700_01 text-center">
           Clear your thoughts, Focus your mind, and Reduce stress!
         </Heading>
       </div>
-      <div className="flex w-full items-center justify-between gap-5 sm:flex-col">
+      <div className="flex w-full items-center justify-between gap-8 sm:flex-col">
         <div className="flex flex-col gap-1.5">
           <Heading size="lg" as="h6" className="!text-[17.59px] !text-gray-700_01">
             Quick Links
